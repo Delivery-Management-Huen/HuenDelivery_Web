@@ -36,7 +36,7 @@
     "dtil": "^1.1.0",
     "history": "^5.0.0",
     "moment": "^2.29.1",
-    "node-sass": "^4.0.0",
+    "node-sass": "^4.14.1",
     "react": "^16.13.1",
     "react-beforeunload": "^2.4.0",
     "react-dom": "^16.13.1",
